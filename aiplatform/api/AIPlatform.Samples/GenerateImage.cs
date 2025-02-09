@@ -26,7 +26,7 @@ using Value = Google.Protobuf.WellKnownTypes.Value;
 public class GenerateImage
 {
     public async Task<FileInfo> Generate(
-        string projectId = "your-project-id")
+        string projectId = "witness-ai-trials")
     {
         var predictionServiceClient = new PredictionServiceClientBuilder
         {

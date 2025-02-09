@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIPlatform.Samples", "AIPla
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIPlatform.Samples.Tests", "AIPlatform.Samples.Tests\AIPlatform.Samples.Tests.csproj", "{A37C568B-169E-4BDA-A465-92FA0D082BEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeminiTesting", "GeminiTesting\GeminiTesting.csproj", "{B1EF7204-B9B2-4F5D-8DED-C69428C0CC88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A37C568B-169E-4BDA-A465-92FA0D082BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A37C568B-169E-4BDA-A465-92FA0D082BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A37C568B-169E-4BDA-A465-92FA0D082BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EF7204-B9B2-4F5D-8DED-C69428C0CC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EF7204-B9B2-4F5D-8DED-C69428C0CC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EF7204-B9B2-4F5D-8DED-C69428C0CC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EF7204-B9B2-4F5D-8DED-C69428C0CC88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
